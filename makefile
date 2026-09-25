@@ -1,4 +1,4 @@
-IMAGE_TAG=fmeineke/ldh-exp:v2.9
+IMAGE_TAG=fmeineke/ldh-exp:v2.10
 .PHONY: run-compose
 
 jar:
